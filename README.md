@@ -1,5 +1,5 @@
 # cool-league-etl
-An ETL of simple match data of a single summoner from the game League of Legends. This project was orcehtrated using Apache Airflow in Docker.
+An ETL of simple match data of a single summoner from the game League of Legends. This project was orchestrated using Apache Airflow in Docker.
 
 The code reads from an omitted .cfg file conteining sensitive information such as the Riot API access key and the summoner in-game nickname.
 
